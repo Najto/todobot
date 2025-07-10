@@ -187,4 +187,4 @@ supabase
   }, () => updateTaskMessage())
   .subscribe();
 
-bot.login('MTM5MjYyMTE0ODk4MTY5MDQzOA.GNhS3j.7P0MvwEpospOr8dU6XGeCiZEjbluIox_dyOKYU');
+bot.login('TOKEN HERE');
